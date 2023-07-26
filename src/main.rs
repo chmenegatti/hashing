@@ -12,7 +12,7 @@ fn main() {
         let password = input.trim();
 
         if password == "quit" || password == "exit" {
-            println!("Saindo da aplicação.");
+            println!("Saindo da aplicação!");
             break;
         }
 
